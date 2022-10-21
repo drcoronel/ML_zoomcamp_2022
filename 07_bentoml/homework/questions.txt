@@ -1,0 +1,4 @@
+Q1:bentoml, version 1.0.7
+Q2: credit_risk_model:7thh5rcqowstv3jy    bentoml.xgboost  197.77 KiB  2022-10-20 14:52:00 
+Q4: Version of    scikit-learn: 1.1.1                                                                       
+Q5: Response :[1]
